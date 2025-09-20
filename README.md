@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org/) 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13-red)](https://pytorch.org/) 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.24-orange)](https://streamlit.io/) 
-[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/USERNAME/banana-ripeness-predictor/main/app.py)
 
 A computer vision regression model that predicts **days until a banana becomes rotten** based on its ripeness stage.
