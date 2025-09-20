@@ -33,4 +33,13 @@ A computer vision regression model that predicts **days until a banana becomes r
 git clone https://github.com/USERNAME/banana-ripeness-predictor.git
 cd banana-ripeness-predictor
 
+### 2️⃣ Create a virtual environment (optional)
+python -m venv venv
+
+# Windows
+.\venv\Scripts\Activate.ps1
+
+# Mac/Linux
+source venv/bin/activate
+
 
